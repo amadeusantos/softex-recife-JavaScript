@@ -1,0 +1,15 @@
+{
+  "name": "bdmysql",
+  "version": "1.0.0",
+  "description": "Implemente e trate uma conexão com o seu banco de dados, usando JavaScript. Caso a conexão com o banco tenha sucesso, ele deve retornar uma frase positiva. Se isso não ocorrer, retorne uma frase informando o erro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amadeu",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.3"
+  }
+}

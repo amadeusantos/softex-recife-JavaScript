@@ -16,7 +16,7 @@ const cidades = ["Recife", "Jaboatão dos Guararapes", "Olinda", "Caruaru", "Pet
 const carro = {
    nome: " Nissan GT-R",
    fabricante: "Nissan Motor Company",
-   ano: "2021",
+   ano: 2021,
    cor: "Jet Black Pearl",
    torque: 481
 }
